@@ -1,0 +1,25 @@
+img {
+    width: 60%;
+    height: 12rem;
+    padding: 20px;
+}
+
+.cart {
+    vertical-align: top;
+    text-align: right;
+}
+.cart img {
+    display: block;
+    position: relative;
+    width: 32px;
+    height: 32px;
+    padding: 0.2rem;
+}
+
+.cart button {
+    width: 100%;
+}
+
+.imgJuego {
+    text-align: center;
+}
